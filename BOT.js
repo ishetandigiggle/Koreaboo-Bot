@@ -10,4 +10,5 @@ client.on('ready', () => {
       message.reply('pong');
       }
       }); 
-      client.login(process.env.BOT_TOKEN);
+      client.login(process.env.MzcxNTUyNDA4MTIxMjQ1Njk2.DM384g.rtBGbAe5oPOvxeW6Cl1Tf_vMbAQ
+);
